@@ -1,25 +1,33 @@
-**Hangman Game**
+Hangman Game
 
-**Description**
+---
 
-A simple text-based Hangman Game developed using Python. The player has to guess a hidden word one letter at a time. The game provides a hint for each word and allows a maximum of 6 incorrect guesses.
+Project Description
 
-**Features**
+The Hangman Game is a simple text-based Python application where players guess a hidden word one letter at a time. The game randomly selects a word from a predefined list and allows a maximum of six incorrect guesses.
 
-- Random word selection
-- 5 predefined words
+---
+
+Features
+
+- Random word selection from 5 predefined words
+- Letter-by-letter word guessing
 - Hint system
-- 6 incorrect guesses allowed
 - Input validation
 - Duplicate letter checking
-- Win/Lose conditions
-- Console-based interface
+- Maximum 6 incorrect guesses
+- Win and Lose conditions
+- Console-based user interaction
 
-**Technologies Used**
+---
+
+Technologies Used
 
 - Python
 
-**Concepts Used**
+---
+
+Concepts Used
 
 - Random Module
 - While Loop
@@ -27,10 +35,16 @@ A simple text-based Hangman Game developed using Python. The player has to guess
 - Strings
 - Lists
 
-**Sample Words**
+---
 
-- python
-- computer
-- coding
-- student
-- project
+Project Demo
+
+https://drive.google.com/file/d/1-oEC4m1UJUYztmjKYEx659Mhvk5cbqV9/view
+
+---
+
+Author
+
+Naveena 
+
+---
