@@ -1,4 +1,4 @@
-📧 **Email Address Extractor**
+📧 *Email Address Extractor*
 
 📖 **Description**
 
@@ -40,9 +40,13 @@ Total Emails Found: 5
 Unique Emails Found: 5
 
 📧 support@example.com
+
 📧 sales@company.com
+
 📧 manager@company.com
+
 📧 hr@company.com
+
 📧 student.help@gmail.com
 
 🎥 **Project Demo**
