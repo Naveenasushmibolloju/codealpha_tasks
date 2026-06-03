@@ -1,12 +1,12 @@
-# 📧✨ **Email Address Extractor** ✨📧
+# 📧✨ Email Address Extractor ✨📧
 
-📖 **Description**
+## 📖  Description
 
 A Python automation script that extracts email addresses from a text file and saves them into another file automatically.
 
 ---
 
-✨ **Features**
+## ✨ Features
 
 ✅ Reads email addresses from a text file
 
@@ -22,7 +22,7 @@ A Python automation script that extracts email addresses from a text file and sa
 
 ---
 
-🛠️ **Concepts Used**
+## 🛠️  Concepts Used
 
 🔹 Python
 
@@ -38,7 +38,7 @@ A Python automation script that extracts email addresses from a text file and sa
 
 ---
 
-📊 **Example Output**
+## 📊 Example Output
 
 📌 Total Emails Found: 5
 
@@ -56,13 +56,13 @@ A Python automation script that extracts email addresses from a text file and sa
 
 ---
 
-🎥 **Project Demo**
+## 🎥 Project Demo
 
 🔗 https://drive.google.com/file/d/1luIp_kAWQVb9r1CybkEgQk8XlYrsMLsl/view?usp=drivesdk
 
 ---
 
-👩‍💻 **Author**
+## 👩‍💻 Author
 
 🌟 Naveena Sushmi Bolloju
 
@@ -70,13 +70,13 @@ A Python automation script that extracts email addresses from a text file and sa
 
 ---
 
-🚀 **Project Status**
+## 🚀 Project Status
 
 🟢 ✅ Completed Successfully
 
 ---
 
-💡 **Project Highlights**
+## 💡 Project Highlights
 
 🌟 Automated Email Extraction
 
