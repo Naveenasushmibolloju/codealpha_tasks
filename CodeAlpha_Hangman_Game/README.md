@@ -72,6 +72,6 @@ The Hangman Game is a simple text-based Python application where players guess a
 
 ---
 
-🚀 Project Status
+🚀 **Project Status**
 
 🟢 ✅ Completed Successfully
