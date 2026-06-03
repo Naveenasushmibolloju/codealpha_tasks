@@ -1,24 +1,28 @@
-📧 *Email Address Extractor*
+📧✨ Email Address Extractor ✨📧
 
-📖 **Description**
+📖 Description
 
 A Python automation script that extracts email addresses from a text file and saves them into another file automatically.
 
-✨ **Features**
+---
 
-✔️ Reads email addresses from a text file
+✨ Features
 
-✔️ Extracts emails using Regular Expressions (Regex)
+✅ Reads email addresses from a text file
 
-✔️ Removes duplicate email addresses
+✅ Extracts emails using Regular Expressions (Regex)
 
-✔️ Saves extracted emails to a new file
+✅ Removes duplicate email addresses
 
-✔️ Displays total emails found
+✅ Saves extracted emails to a new file
 
-✔️ Fast and easy automation
+✅ Displays total emails found
 
-🛠️  **Concepts Used**
+✅ Fast and easy automation
+
+---
+
+🛠️ Concepts Used
 
 🔹 Python
 
@@ -32,12 +36,13 @@ A Python automation script that extracts email addresses from a text file and sa
 
 🔹 Error Handling
 
+---
 
-📊 **Example Output**
+📊 Example Output
 
-Total Emails Found: 5
+📌 Total Emails Found: 5
 
-Unique Emails Found: 5
+📌 Unique Emails Found: 5
 
 📧 support@example.com
 
@@ -49,18 +54,36 @@ Unique Emails Found: 5
 
 📧 student.help@gmail.com
 
-🎥 **Project Demo**
+---
 
-https://drive.google.com/file/d/1luIp_kAWQVb9r1CybkEgQk8XlYrsMLsl/view?usp=drivesdk
+🎥 Project Demo
 
-👩‍💻 **Author**
+🔗 https://drive.google.com/file/d/1luIp_kAWQVb9r1CybkEgQk8XlYrsMLsl/view?usp=drivesdk
 
+---
 
-Naveena Sushmi Bolloju
+👩‍💻 Author
+
+🌟 Naveena Sushmi Bolloju
 
 🎓 Final Year Computer Science Student
 
+---
 
-🚀 **Project Status**
+🚀 Project Status
 
-✅ Completed Successfully
+🟢 ✅ Completed Successfully
+
+---
+
+💡 Project Highlights
+
+🌟 Automated Email Extraction
+
+🌟 Duplicate Removal
+
+🌟 Regex-Based Searching
+
+🌟 File Processing Automation
+
+🌟 Beginner-Friendly Python Project
