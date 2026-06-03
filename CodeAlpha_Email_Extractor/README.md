@@ -1,4 +1,4 @@
-📧✨ #Email Address Extractor ✨📧
+📧✨ **Email Address Extractor** ✨📧
 
 📖 **Description**
 
