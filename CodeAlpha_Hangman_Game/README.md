@@ -1,5 +1,6 @@
 🎮✨ **Hangman Game** ✨🎮
 
+
 📖 **Project Description**
 
 The Hangman Game is a simple text-based Python application where players guess a hidden word one letter at a time. The game randomly selects a word from a predefined list and allows a maximum of six incorrect guesses.
