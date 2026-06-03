@@ -1,4 +1,5 @@
 Stock,Quantity,Price,Investment Value
-AAPL,5,180,900
-TSLA,2,250,500
-AMZN,3,190,570
+AAPL,10,180,1800
+TSLA,5,250,1250
+GOOGL,3,140,420
+Total,,,3470
