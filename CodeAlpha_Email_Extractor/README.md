@@ -64,7 +64,7 @@ A Python automation script that extracts email addresses from a text file and sa
 
 ## 👩‍💻 Author
 
-🌟 Naveena Sushmi Bolloju
+### 🌟 Naveena Sushmi Bolloju
 
 🎓 Final Year Computer Science Student
 
