@@ -21,18 +21,17 @@ A Python automation script that extracts email addresses from a text file and sa
 🛠️  **Concepts Used**
 
 🔹 Python
+
 🔹 Regular Expressions ("re")
+
 🔹 File Handling
+
 🔹 Functions
+
 🔹 Loops
+
 🔹 Error Handling
 
-📂 **Project Files**
-
-📄 "email_extractor.py" – Main Python Script
-📄 "input.txt" – Input file containing text and emails
-📄 "extracted_emails.txt" – Output file with extracted emails
-📄 "README.md" – Project Documentation
 
 📊 **Example Output**
 
@@ -47,12 +46,15 @@ Unique Emails Found: 5
 📧 student.help@gmail.com
 
 🎥 **Project Demo**
+
 https://drive.google.com/file/d/1luIp_kAWQVb9r1CybkEgQk8XlYrsMLsl/view?usp=drivesdk
 
 👩‍💻 **Author**
 
+
 Naveena Sushmi Bolloju
 🎓 Final Year Computer Science Student
+
 
 🚀 **Project Status**
 
