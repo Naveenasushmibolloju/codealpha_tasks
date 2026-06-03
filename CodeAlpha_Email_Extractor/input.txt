@@ -1,1 +1,25 @@
+Hello Team,
 
+For technical support contact:
+support@example.com
+
+Sales Department:
+sales@company.com
+
+Manager:
+manager@company.com
+
+HR Department:
+hr@company.com
+
+Training Team:
+training@company.com
+
+Student Queries:
+student.help@gmail.com
+
+Support Team:
+support@example.com
+
+Project Team:
+project.team@codealpha.tech
