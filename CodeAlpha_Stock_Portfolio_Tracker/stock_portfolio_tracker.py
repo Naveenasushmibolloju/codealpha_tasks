@@ -89,4 +89,7 @@ with open("portfolio.csv", "w", newline="") as file:
             details["Investment"]
         ])
 
+    # Total row
+    writer.writerow(["Total", "", "", total_investment])
+
 print("\nPortfolio saved successfully to portfolio.csv")
